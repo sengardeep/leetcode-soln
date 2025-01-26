@@ -24,7 +24,6 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             if(nums[i]==ans1||nums[i]==ans2) sol.push_back(i);
-            // else if(nums[i]==ans2) sol.push_back(i);
             else continue; 
         }
         return sol;
