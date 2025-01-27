@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/sengardeep/leetcode-soln/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
