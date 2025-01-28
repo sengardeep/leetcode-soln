@@ -1,18 +1,19 @@
 class Solution {
 public:
-    void f(vector<int>& arr, int index, vector<vector<int>>& ans,
-           vector<int>& temp, int target) {
+    void generate(vector<int>& arr, int idx, int target,
+                  vector<vector<int>>& ans, vector<int>& temp) {
         if (target == 0) {
             ans.push_back(temp);
             return;
         }
-        if (target < 0)
-            return;
-        for (int i = index; i < arr.size(); i++) {
-            if (i > index && arr[i] == arr[i - 1])
-                continue;
+        for (int i = idx; i < arr.size(); i++) {
+            if (i > idx && arr[i] == arr[i - 1])
+                continue; // Skip duplicates
+            if (arr[i] > target)
+                break; // Stop early as the array is sorted
             temp.push_back(arr[i]);
-            f(arr, i + 1, ans, temp, target - arr[i]);
+            generate(arr, i + 1, target - arr[i], ans,
+                     temp); // Move to the next index
             temp.pop_back();
         }
     }
@@ -20,9 +21,7 @@ public:
         sort(candidates.begin(), candidates.end());
         vector<vector<int>> ans;
         vector<int> temp;
-
-        f(candidates, 0, ans, temp, target);
-
+        generate(candidates, 0, target, ans, temp);
         return ans;
     }
 };
