@@ -1,26 +1,28 @@
 class Solution {
 public:
-    void f(vector<int>& arr, vector<vector<int>>& ans, vector<int>& temp,
-           int index, int target, int k) {
-        if (temp.size() == k) {
-            if (target == 0)
+    void solve(vector<int>& arr, vector<vector<int>>& ans, int idx,
+               vector<int>& temp, int target, int size) {
+        if (temp.size() == size || idx == arr.size() || target < 0) {
+            if (target == 0 && temp.size() == size) {
                 ans.push_back(temp);
+            }
             return;
         }
+        // select
+        temp.push_back(arr[idx]);
+        solve(arr, ans, idx + 1, temp, target - arr[idx], size);
+        temp.pop_back();
 
-        for (int i = index; i < arr.size(); i++) {
-            temp.push_back(arr[i]);
-            f(arr, ans, temp, i + 1, target - arr[i], k);
-            temp.pop_back();
-        }
+        // Not select
+        solve(arr, ans, idx + 1, temp, target, size);
     }
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        vector<vector<int>> ans;
+        vector<int> nums;
+        for (int i = 1; i <= 9; i++)
+            nums.push_back(i);
         vector<int> temp;
-
-        f(arr, ans, temp, 0, n, k);
-
+        vector<vector<int>> ans;
+        solve(nums, ans, 0, temp, n, k);
         return ans;
     }
 };
