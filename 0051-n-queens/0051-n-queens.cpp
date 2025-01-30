@@ -2,50 +2,38 @@ class Solution {
 public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        vector<string> temp;
+        vector<string> board(n);
         string s(n, '.');
-        for (int i = 0; i < n; i++)
-            temp.push_back(s);
-        solve(0, temp, ans, n);
+        for (int i = 0; i < n; i++) {
+            board[i] = s;
+        }
+        vector<int> leftrow(n, 0), upperDiagonal(2 * n - 1, 0),
+            lowerDiagonal(2 * n - 1, 0);
+        solve(0, board, ans, leftrow, upperDiagonal, lowerDiagonal, n);
         return ans;
     }
 
 private:
-    bool check(int row, int col, vector<string>& temp, int n) {
-        int row1 = row, col1 = col;
-        while (col1 >= 0) {
-            if (temp[row1][col1] == 'Q')
-                return false;
-            col1--;
-        }
-        col1 = col;
-        while (row1 >= 0 && col1 >= 0) {
-            if (temp[row1][col1] == 'Q')
-                return false;
-            row1--;
-            col1--;
-        }
-        row1 = row;
-        col1 = col;
-        while (row1 < n && col1 >= 0) {
-            if (temp[row1][col1] == 'Q')
-                return false;
-            row1++;
-            col1--;
-        }
-        return true;
-    }
-    void solve(int col, vector<string>& temp, vector<vector<string>>& ans,
-               int n) {
+    void solve(int col, vector<string>& board, vector<vector<string>>& ans,
+               vector<int>& leftrow, vector<int>& upperDiagonal,
+               vector<int>& lowerDiagonal, int n) {
         if (col == n) {
-            ans.push_back(temp);
+            ans.push_back(board);
             return;
         }
         for (int row = 0; row < n; row++) {
-            if (check(row, col, temp, n)) {
-                temp[row][col] = 'Q';
-                solve(col + 1, temp, ans, n);
-                temp[row][col] = '.';
+            if (leftrow[row] == 0 && lowerDiagonal[row + col] == 0 &&
+                upperDiagonal[n - 1 + col - row] == 0) {
+                board[row][col] = 'Q';
+                leftrow[row] = 1;
+                lowerDiagonal[row + col] = 1;
+                upperDiagonal[n - 1 + col - row] = 1;
+                solve(col + 1, board, ans, leftrow, upperDiagonal,
+                      lowerDiagonal, n);
+                board[row][col] = '.';
+                leftrow[row] = 0;
+                lowerDiagonal[row + col] = 0;
+                upperDiagonal[n - 1 + col - row] = 0;
             }
         }
     }
