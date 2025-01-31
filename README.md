@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sengardeep/leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sengardeep/leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
@@ -82,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
