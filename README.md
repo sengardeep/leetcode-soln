@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
