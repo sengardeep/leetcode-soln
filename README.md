@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0216-combination-sum-iii) |
+| [3429-special-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
