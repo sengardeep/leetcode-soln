@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sengardeep/leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sengardeep/leetcode-soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sengardeep/leetcode-soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sengardeep/leetcode-soln/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sengardeep/leetcode-soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
