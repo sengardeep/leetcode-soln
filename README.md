@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0216-combination-sum-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0216-combination-sum-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sengardeep/leetcode-soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3429-special-array-i) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
