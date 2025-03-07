@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sengardeep/leetcode-soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
+| [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sengardeep/leetcode-soln/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
+| [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
+| [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 ## String
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 ## Backtracking
 |  |
 | ------- |
