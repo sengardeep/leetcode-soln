@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/sengardeep/leetcode-soln/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sengardeep/leetcode-soln/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sengardeep/leetcode-soln/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sengardeep/leetcode-soln/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sengardeep/leetcode-soln/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sengardeep/leetcode-soln/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/sengardeep/leetcode-soln/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
