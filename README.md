@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/sengardeep/leetcode-soln/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
 |  |
