@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/sengardeep/leetcode-soln/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/sengardeep/leetcode-soln/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sengardeep/leetcode-soln/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sengardeep/leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/sengardeep/leetcode-soln/tree/master/2262-solving-questions-with-brainpower) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
