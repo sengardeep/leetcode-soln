@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sengardeep/leetcode-soln/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3429-special-array-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Depth-First Search
 |  |
 | ------- |
