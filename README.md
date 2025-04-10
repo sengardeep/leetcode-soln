@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sengardeep/leetcode-soln/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/sengardeep/leetcode-soln/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
@@ -472,5 +476,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
