@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
