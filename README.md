@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/sengardeep/leetcode-soln/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sengardeep/leetcode-soln/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/2551-apply-operations-to-an-array) |
