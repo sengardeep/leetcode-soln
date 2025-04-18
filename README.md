@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sengardeep/leetcode-soln/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sengardeep/leetcode-soln/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sengardeep/leetcode-soln/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
@@ -501,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
