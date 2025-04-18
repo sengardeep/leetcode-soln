@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3817-maximum-containers-on-a-ship](https://github.com/sengardeep/leetcode-soln/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/sengardeep/leetcode-soln/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
