@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sengardeep/leetcode-soln/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sengardeep/leetcode-soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sengardeep/leetcode-soln/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -512,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
