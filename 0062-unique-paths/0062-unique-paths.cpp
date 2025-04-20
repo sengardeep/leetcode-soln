@@ -1,19 +1,25 @@
 class Solution {
-   public:
+public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        return helper(dp, m - 1, n - 1);
-    }
+        vector<vector<int>> dp(m,vector<int>(n,0));
+        dp[0][0]=1;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                //right
+                if(j<n-1)
+                {
+                    dp[i][j+1] += dp[i][j];
+                }
+                //down
+                if(i<m-1)
+                {
+                    dp[i+1][j] += dp[i][j];
+                }
+            }
+        }
 
-   private:
-    int helper(vector<vector<int>>& dp, int row, int col) {
-        if (row == 0 && col == 0) return dp[row][col] = 1;
-        if (dp[row][col] != -1) return dp[row][col];
-        // Go for both directions (up and left)
-        int left = 0, up = 0;
-        if (row > 0) left = helper(dp, row - 1, col);
-        if (col > 0) up = helper(dp, row, col - 1);
-
-        return dp[row][col] = left + up;
+        return dp[m-1][n-1];
     }
 };
