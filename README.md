@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sengardeep/leetcode-soln/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sengardeep/leetcode-soln/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sengardeep/leetcode-soln/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
