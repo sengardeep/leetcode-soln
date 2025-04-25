@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sengardeep/leetcode-soln/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sengardeep/leetcode-soln/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sengardeep/leetcode-soln/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -565,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
