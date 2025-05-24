@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sengardeep/leetcode-soln/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/sengardeep/leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3429-special-array-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sengardeep/leetcode-soln/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sengardeep/leetcode-soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3194-find-words-containing-character](https://github.com/sengardeep/leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
