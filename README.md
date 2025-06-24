@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sengardeep/leetcode-soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sengardeep/leetcode-soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0216-combination-sum-iii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/sengardeep/leetcode-soln/tree/master/1500-count-largest-group) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sengardeep/leetcode-soln/tree/master/2265-partition-array-according-to-given-pivot) |
