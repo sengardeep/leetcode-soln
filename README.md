@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/sengardeep/leetcode-soln/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sengardeep/leetcode-soln/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2176-parallel-courses-iii](https://github.com/sengardeep/leetcode-soln/tree/master/2176-parallel-courses-iii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sengardeep/leetcode-soln/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/sengardeep/leetcode-soln/tree/master/2262-solving-questions-with-brainpower) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
