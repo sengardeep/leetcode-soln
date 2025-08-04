@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sengardeep/leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/sengardeep/leetcode-soln/tree/master/1500-count-largest-group) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sengardeep/leetcode-soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sengardeep/leetcode-soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
