@@ -1,22 +1,14 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n, -1);
-        return helper(nums, n - 1, dp);
-    }
-
-private:
-    int helper(vector<int>& nums, int idx, vector<int>& dp) {
-        if (idx < 0) return 0;
-        if (dp[idx] != -1) return dp[idx];
-
-        // Take current index and move to idx - 2
-        int take = nums[idx] + helper(nums, idx - 2, dp);
-
-        // Or skip current index and move to idx - 1
-        int skip = helper(nums, idx - 1, dp);
-
-        return dp[idx] = max(take, skip);
+        int n=nums.size();
+        vector<vector<int>> dp(n, vector<int>(2, 0));
+        //dp[i][j] : maximum sum till i  if you select/deselect the ith item
+        dp[0][1]=nums[0];
+        for(int i=1;i<n;i++){
+            dp[i][0]=max(dp[i-1][0],dp[i-1][1]);
+            dp[i][1]=nums[i]+dp[i-1][0];   
+        }
+        return max(dp[n-1][0],dp[n-1][1]);
     }
 };
