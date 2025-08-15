@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/sengardeep/leetcode-soln/tree/master/0343-integer-break) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sengardeep/leetcode-soln/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
+| [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sengardeep/leetcode-soln/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2529-range-product-queries-of-powers) |
