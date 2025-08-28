@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sengardeep/leetcode-soln/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sengardeep/leetcode-soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sengardeep/leetcode-soln/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sengardeep/leetcode-soln/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sengardeep/leetcode-soln/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sengardeep/leetcode-soln/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
 | ------- |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting Sort
 |  |
 | ------- |
