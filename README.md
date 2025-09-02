@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/sengardeep/leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sengardeep/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sengardeep/leetcode-soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sengardeep/leetcode-soln/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3817-maximum-containers-on-a-ship](https://github.com/sengardeep/leetcode-soln/tree/master/3817-maximum-containers-on-a-ship) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sengardeep/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sengardeep/leetcode-soln/tree/master/3748-sort-matrix-by-diagonals) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sengardeep/leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Shortest Path
@@ -836,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sengardeep/leetcode-soln/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
