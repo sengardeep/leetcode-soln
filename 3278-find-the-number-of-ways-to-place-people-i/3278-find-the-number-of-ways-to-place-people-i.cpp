@@ -1,21 +1,24 @@
 class Solution {
 public:
-    static bool cmp(vector<int>& p, vector<int>& q){
-        return (p[0]==q[0])?p[1]<q[1]:p[0]>q[0];// order by (x, >)
-    }
-
-    int numberOfPairs(vector<vector<int>>& P) {
-        sort(P.begin(), P.end(), cmp);
-        int n = P.size(), ans = 0;
-        for(int i=0; i<n-1; i++){
-            int y=INT_MAX;
-            for(int j = i+1; j<n; j++){
-                if (P[j][1]>=P[i][1] && y>P[j][1]){
+    int numberOfPairs(vector<vector<int>>& points) {
+        auto cmp = [](vector<int>& a, vector<int>& b) {
+            return a[0] == b[0] ? (a[1] > b[1]) : a[0] < b[0];
+        };
+        sort(points.begin(), points.end(), cmp);
+        int n = points.size(), ans = 0;
+        for (int i = 0; i < n - 1; i++) {
+            int maxY = INT_MIN;
+            int x1 = points[i][0], y1 = points[i][1];
+            for (int j = i + 1; j < n; j++) {
+                int x2 = points[j][0], y2 = points[j][1];
+                if(y2>y1) continue;
+                if(y2>maxY) {
                     ans++;
-                    y=P[j][1];
+                    maxY=max(maxY,y2);
                 }
             }
         }
+
         return ans;
     }
 };
