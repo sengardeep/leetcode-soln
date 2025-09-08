@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sengardeep/leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/sengardeep/leetcode-soln/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/sengardeep/leetcode-soln/tree/master/0972-knight-dialer) |
