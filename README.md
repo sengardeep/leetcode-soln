@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sengardeep/leetcode-soln/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-knight-dialer](https://github.com/sengardeep/leetcode-soln/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1628-count-submatrices-with-all-ones) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sengardeep/leetcode-soln/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/sengardeep/leetcode-soln/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
