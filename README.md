@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sengardeep/leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sengardeep/leetcode-soln/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sengardeep/leetcode-soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sengardeep/leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sengardeep/leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sengardeep/leetcode-soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sengardeep/leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sengardeep/leetcode-soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
