@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/sengardeep/leetcode-soln/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sengardeep/leetcode-soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/sengardeep/leetcode-soln/tree/master/1500-count-largest-group) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sengardeep/leetcode-soln/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sengardeep/leetcode-soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sengardeep/leetcode-soln/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sengardeep/leetcode-soln/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
