@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sengardeep/leetcode-soln/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3429-special-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sengardeep/leetcode-soln/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sengardeep/leetcode-soln/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Trie
 |  |
 | ------- |
