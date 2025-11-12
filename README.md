@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2605-count-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/2605-count-anagrams) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sengardeep/leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/sengardeep/leetcode-soln/tree/master/1836-count-ways-to-make-array-with-product) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sengardeep/leetcode-soln/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
