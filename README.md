@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sengardeep/leetcode-soln/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/sengardeep/leetcode-soln/tree/master/0506-relative-ranks) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/sengardeep/leetcode-soln/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sengardeep/leetcode-soln/tree/master/0646-maximum-length-of-pair-chain) |
