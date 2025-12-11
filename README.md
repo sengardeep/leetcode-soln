@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2719-count-of-integers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/sengardeep/leetcode-soln/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2998-count-symmetric-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2719-count-of-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2719-count-of-integers) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/sengardeep/leetcode-soln/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
