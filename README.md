@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sengardeep/leetcode-soln/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sengardeep/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/sengardeep/leetcode-soln/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/sengardeep/leetcode-soln/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sengardeep/leetcode-soln/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sengardeep/leetcode-soln/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sengardeep/leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sengardeep/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/sengardeep/leetcode-soln/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/sengardeep/leetcode-soln/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sengardeep/leetcode-soln/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3462-vowels-game-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sengardeep/leetcode-soln/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/sengardeep/leetcode-soln/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sengardeep/leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sengardeep/leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3606-coupon-code-validator](https://github.com/sengardeep/leetcode-soln/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sengardeep/leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sengardeep/leetcode-soln/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sengardeep/leetcode-soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
