@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sengardeep/leetcode-soln/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sengardeep/leetcode-soln/tree/master/3748-sort-matrix-by-diagonals) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sengardeep/leetcode-soln/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sengardeep/leetcode-soln/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sengardeep/leetcode-soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3462-vowels-game-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sengardeep/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sengardeep/leetcode-soln/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/sengardeep/leetcode-soln/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/sengardeep/leetcode-soln/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sengardeep/leetcode-soln/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Combinatorics
 |  |
 | ------- |
