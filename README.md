@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1628-count-submatrices-with-all-ones) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sengardeep/leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sengardeep/leetcode-soln/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sengardeep/leetcode-soln/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sengardeep/leetcode-soln/tree/master/2140-longest-subsequence-repeated-k-times) |
