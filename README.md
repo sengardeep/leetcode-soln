@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sengardeep/leetcode-soln/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sengardeep/leetcode-soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sengardeep/leetcode-soln/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-knight-dialer](https://github.com/sengardeep/leetcode-soln/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
