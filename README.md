@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/sengardeep/leetcode-soln/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sengardeep/leetcode-soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/sengardeep/leetcode-soln/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sengardeep/leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sengardeep/leetcode-soln/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/sengardeep/leetcode-soln/tree/master/1753-path-with-minimum-effort) |
+| [1895-largest-magic-square](https://github.com/sengardeep/leetcode-soln/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sengardeep/leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sengardeep/leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sengardeep/leetcode-soln/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/sengardeep/leetcode-soln/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2485-find-the-pivot-integer) |
 | [2529-range-product-queries-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/sengardeep/leetcode-soln/tree/master/2625-increment-submatrices-by-one) |
