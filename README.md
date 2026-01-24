@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sengardeep/leetcode-soln/tree/master/1813-maximum-erasure-value) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/sengardeep/leetcode-soln/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sengardeep/leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sengardeep/leetcode-soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/sengardeep/leetcode-soln/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sengardeep/leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sengardeep/leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sengardeep/leetcode-soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sengardeep/leetcode-soln/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sengardeep/leetcode-soln/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sengardeep/leetcode-soln/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sengardeep/leetcode-soln/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sengardeep/leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sengardeep/leetcode-soln/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sengardeep/leetcode-soln/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sengardeep/leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sengardeep/leetcode-soln/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sengardeep/leetcode-soln/tree/master/2392-successful-pairs-of-spells-and-potions) |
