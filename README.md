@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sengardeep/leetcode-soln/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sengardeep/leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/2605-count-anagrams) |
 | [2719-count-of-integers](https://github.com/sengardeep/leetcode-soln/tree/master/2719-count-of-integers) |
 | [2887-sort-vowels-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/sengardeep/leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3462-vowels-game-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/3462-vowels-game-in-a-string) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sengardeep/leetcode-soln/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sengardeep/leetcode-soln/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Memoization
@@ -1034,5 +1037,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
