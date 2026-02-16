@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/sengardeep/leetcode-soln/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sengardeep/leetcode-soln/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
