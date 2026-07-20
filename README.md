@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/sengardeep/leetcode-soln/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sengardeep/leetcode-soln/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sengardeep/leetcode-soln/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sengardeep/leetcode-soln/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sengardeep/leetcode-soln/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sengardeep/leetcode-soln/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sengardeep/leetcode-soln/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/sengardeep/leetcode-soln/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sengardeep/leetcode-soln/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sengardeep/leetcode-soln/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sengardeep/leetcode-soln/tree/master/0304-range-sum-query-2d-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sengardeep/leetcode-soln/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sengardeep/leetcode-soln/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/sengardeep/leetcode-soln/tree/master/2485-find-the-pivot-integer) |
