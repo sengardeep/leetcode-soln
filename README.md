@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sengardeep/leetcode-soln/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sengardeep/leetcode-soln/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sengardeep/leetcode-soln/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sengardeep/leetcode-soln/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1628-count-submatrices-with-all-ones) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sengardeep/leetcode-soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sengardeep/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sengardeep/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sengardeep/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
