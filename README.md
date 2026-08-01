@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sengardeep/leetcode-soln/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sengardeep/leetcode-soln/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/sengardeep/leetcode-soln/tree/master/0127-word-ladder) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sengardeep/leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sengardeep/leetcode-soln/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sengardeep/leetcode-soln/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sengardeep/leetcode-soln/tree/master/0125-valid-palindrome) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sengardeep/leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0220-contains-duplicate-iii) |
