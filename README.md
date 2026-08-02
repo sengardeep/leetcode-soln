@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sengardeep/leetcode-soln/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sengardeep/leetcode-soln/tree/master/0084-largest-rectangle-in-histogram) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sengardeep/leetcode-soln/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sengardeep/leetcode-soln/tree/master/0200-number-of-islands) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sengardeep/leetcode-soln/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sengardeep/leetcode-soln/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sengardeep/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
