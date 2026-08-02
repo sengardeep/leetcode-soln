@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sengardeep/leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sengardeep/leetcode-soln/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/sengardeep/leetcode-soln/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sengardeep/leetcode-soln/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sengardeep/leetcode-soln/tree/master/0091-decode-ways) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sengardeep/leetcode-soln/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sengardeep/leetcode-soln/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sengardeep/leetcode-soln/tree/master/0233-number-of-digit-one) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sengardeep/leetcode-soln/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sengardeep/leetcode-soln/tree/master/0136-single-number) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sengardeep/leetcode-soln/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/sengardeep/leetcode-soln/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sengardeep/leetcode-soln/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/sengardeep/leetcode-soln/tree/master/2048-build-array-from-permutation) |
