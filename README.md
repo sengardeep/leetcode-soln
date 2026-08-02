@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/sengardeep/leetcode-soln/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sengardeep/leetcode-soln/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/sengardeep/leetcode-soln/tree/master/1989-minimum-xor-sum-of-two-arrays) |
