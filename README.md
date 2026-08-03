@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/sengardeep/leetcode-soln/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sengardeep/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sengardeep/leetcode-soln/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sengardeep/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sengardeep/leetcode-soln/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sengardeep/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sengardeep/leetcode-soln/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
