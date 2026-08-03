@@ -1,11 +1,17 @@
 class Solution {
 public:
     int rangeBitwiseAnd(int left, int right) {
-        int i=0;
-        while((1LL<<(i+1))<=left) i++;
-        if((1LL<<(i+1))<right) return 0;
         int ans=left;
-        for(long long k=left;k<=right;k++) ans=ans&k;
+        int i=0,diff=right-left;
+        while((1<<i) <= diff){
+            if((1<<i) > ans) return 0;
+            if((ans&(1<<i))) ans^=(1<<i);
+            i++;
+        }
+        for(int i=0;i<31;i++){
+            int set=(right&(1<<i));
+            if((ans&(1<<i)) && !set) ans^=(1<<i);
+        }
         return ans;
     }
 };
