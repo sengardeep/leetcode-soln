@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sengardeep/leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/sengardeep/leetcode-soln/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sengardeep/leetcode-soln/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sengardeep/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/sengardeep/leetcode-soln/tree/master/0682-baseball-game) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sengardeep/leetcode-soln/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sengardeep/leetcode-soln/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sengardeep/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0295-find-median-from-data-stream) |
