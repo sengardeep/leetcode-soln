@@ -14,16 +14,16 @@ public:
                 else if(temp!="..") stack.push(temp);  
             }
         }
+        vector<string> v;
         string ans="";
         while(!stack.empty()){
             string temp=stack.top();
-            reverse(begin(temp),end(temp));
-            ans+=temp;
-            ans+='/';
+            v.push_back(temp);            
             stack.pop();
         }
-        if(ans.empty()) ans="/";
-        reverse(begin(ans),end(ans));
+        reverse(begin(v),end(v));
+        for(auto s : v) ans+=('/'+s);
+        if(ans=="") ans="/"; 
         return ans;
     }
 };
