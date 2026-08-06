@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sengardeep/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0680-valid-palindrome-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/sengardeep/leetcode-soln/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sengardeep/leetcode-soln/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sengardeep/leetcode-soln/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sengardeep/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sengardeep/leetcode-soln/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sengardeep/leetcode-soln/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/sengardeep/leetcode-soln/tree/master/0901-online-stock-span) |
