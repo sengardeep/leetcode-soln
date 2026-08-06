@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/sengardeep/leetcode-soln/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sengardeep/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sengardeep/leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/sengardeep/leetcode-soln/tree/master/1390-four-divisors) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/sengardeep/leetcode-soln/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
 | [0761-special-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/sengardeep/leetcode-soln/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -1064,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 ## Union Find
 |  |
 | ------- |
@@ -1190,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sengardeep/leetcode-soln/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sengardeep/leetcode-soln/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1244,4 +1251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sengardeep/leetcode-soln/tree/master/0084-largest-rectangle-in-histogram) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
