@@ -1,40 +1,57 @@
 class Twitter {
 public:
-    vector<pair<int,int>> v;
-    unordered_map<int,set<int>> mp;
+
+    int timer;
+
+    unordered_map<int, unordered_set<int>> following;
+
+    unordered_map<int, vector<pair<int,int>>> tweets;
+
     Twitter() {
+        timer = 0;
     }
-    
+
     void postTweet(int userId, int tweetId) {
-        v.push_back({userId,tweetId});
+
+        tweets[userId].push_back({timer++, tweetId});
     }
-    
+
     vector<int> getNewsFeed(int userId) {
-        int i=v.size()-1;
-        vector<int> ans;
-        while(i>=0 && ans.size()<10){
-            int curr=v[i].first;
-            if(curr==userId || mp[userId].count(curr)) ans.push_back(v[i].second);
-            i--;
+
+        priority_queue<pair<int,int>> pq;
+
+        // Own tweets
+        for(auto &t : tweets[userId])
+            pq.push(t);
+
+        // Tweets of followees
+        for(auto followee : following[userId]){
+
+            for(auto &t : tweets[followee])
+                pq.push(t);
         }
+
+        vector<int> ans;
+
+        while(!pq.empty() && ans.size() < 10){
+
+            ans.push_back(pq.top().second);
+            pq.pop();
+        }
+
         return ans;
     }
-    
+
     void follow(int followerId, int followeeId) {
-        if(followerId==followeeId) return;
-        mp[followerId].insert(followeeId);
+
+        if(followerId == followeeId)
+            return;
+
+        following[followerId].insert(followeeId);
     }
-    
+
     void unfollow(int followerId, int followeeId) {
-        if(mp[followerId].count(followeeId)) mp[followerId].erase(mp[followerId].find(followeeId));
+
+        following[followerId].erase(followeeId);
     }
 };
-
-/**
- * Your Twitter object will be instantiated and called as such:
- * Twitter* obj = new Twitter();
- * obj->postTweet(userId,tweetId);
- * vector<int> param_2 = obj->getNewsFeed(userId);
- * obj->follow(followerId,followeeId);
- * obj->unfollow(followerId,followeeId);
- */
