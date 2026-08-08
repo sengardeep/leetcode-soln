@@ -2,55 +2,49 @@ class Solution {
 public:
     string longestDiverseString(int a, int b, int c) {
         priority_queue<pair<int, char>> pq;
-
-        if (a > 0) pq.push({a, 'a'});
-        if (b > 0) pq.push({b, 'b'});
-        if (c > 0) pq.push({c, 'c'});
-
-        string result = "";
-
+        if (a)
+            pq.push({a, 'a'});
+        if (b)
+            pq.push({b, 'b'});
+        if (c)
+            pq.push({c, 'c'});
+        string ans = "";
         while (pq.size() > 1) {
-            int freq1 = pq.top().first;
-            char c1 = pq.top().second;
+            auto [f1, ch1] = pq.top();
             pq.pop();
-
-            if (result.size() <= 1) {
-                result += c1;
-                freq1--;
-                if (freq1 > 0) pq.push({freq1, c1});
-            } 
-            else {
-                if (result[result.size() - 1] == c1 && result[result.size() - 2] == c1) {
-                    int freq2 = pq.top().first;
-                    char c2 = pq.top().second;
-                    pq.pop();
-
-                    result += c2;
-                    freq2--;
-
-                    if (freq2 > 0) pq.push({freq2, c2});
-                    if (freq1 > 0) pq.push({freq1, c1});
-                } 
-                else {
-                    result += c1;
-                    freq1--;
-                    if (freq1 > 0) pq.push({freq1, c1});
-                }
-            }
-        }
-
-        if (pq.size() == 1) {
-            int freq1 = pq.top().first;
-            char c1 = pq.top().second;
-            
-            if (freq1 <= 1) {
-                result += c1;
+            auto [f2, ch2] = pq.top();
+            pq.pop();
+            if (!ans.empty() && ans.back() == ch1) {
+                ans += ch1;
+                f1--;
+                ans += ch2;
+                f2--;
             } else {
-                result += c1;
-                result += c1;
+                if (f1 > 1){
+                    ans += ch1;
+                    ans += ch1;
+                    f1 -= 2;
+                }else  {
+                    ans += ch1;
+                    f1-=1;
+                }
+                ans += ch2;
+                f2 -= 1;
+            }
+            if(f1>0)
+            pq.push({f1, ch1});
+            if(f2>0)
+            pq.push({f2, ch2});
+        }
+        if (pq.size() == 1) {
+            auto [f,c] = pq.top();
+            if (f == 1) {
+                ans += c;
+            } else {
+                ans += c;
+                ans += c;
             }
         }
-
-        return result;
+        return ans;
     }
 };
