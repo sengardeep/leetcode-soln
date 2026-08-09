@@ -1,21 +1,18 @@
 class Solution {
-public: 
-    void generate(vector<int>&arr,vector<vector<int>>&ans,vector<int>&temp,int idx)
-    {
-        ans.push_back(temp);
-        for(int i=idx;i<arr.size();i++)
-        {
-            if(i>idx && arr[i]==arr[i-1]) continue;
-            temp.push_back(arr[i]);
-            generate(arr,ans,temp,i+1);
-            temp.pop_back();
-        }
-    }
+public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<int> temp;
-        vector<vector<int>> ans;
-        generate(nums,ans,temp,0);
+        int n=nums.size();
+        int total = 1<<n;
+        set<vector<int>> res;
+        for(int k=0;k<total;k++){
+            vector<int> temp;
+            for(int i=0;i<n;i++){
+                if(k&(1<<i)) temp.push_back(nums[i]);
+            }
+            sort(begin(temp),end(temp));
+            res.insert(temp);
+        }
+        vector<vector<int>> ans(begin(res),end(res));
         return ans;
     }
 };
