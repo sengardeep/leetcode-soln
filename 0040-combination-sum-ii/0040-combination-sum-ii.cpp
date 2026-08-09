@@ -1,27 +1,42 @@
 class Solution {
 public:
-    void generate(vector<int>& arr, int idx, int target,
-                  vector<vector<int>>& ans, vector<int>& temp) {
-        if (target == 0) {
-            ans.push_back(temp);
-            return;
-        }
-        for (int i = idx; i < arr.size(); i++) {
-            if (i > idx && arr[i] == arr[i - 1])
-                continue; // Skip duplicates
-            if (arr[i] > target)
-                break; // Stop early as the array is sorted
-            temp.push_back(arr[i]);
-            generate(arr, i + 1, target - arr[i], ans,
-                     temp); // Move to the next index
-            temp.pop_back();
-        }
-    }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
+
         vector<vector<int>> ans;
         vector<int> temp;
-        generate(candidates, 0, target, ans, temp);
+        int n = candidates.size();
+
+        function<void(int, int)> f = [&](int start, int remaining) {
+
+            if (remaining == 0) {
+                ans.push_back(temp);
+                return;
+            }
+
+            for (int i = start; i < n; i++) {
+
+                // Skip duplicate choices at the same level
+                if (i > start && candidates[i] == candidates[i - 1])
+                    continue;
+
+                // Since sorted, everything after this is also too large
+                if (candidates[i] > remaining)
+                    break;
+
+                // Take
+                temp.push_back(candidates[i]);
+
+                // i + 1 => this element cannot be reused
+                f(i + 1, remaining - candidates[i]);
+
+                // Backtrack
+                temp.pop_back();
+            }
+        };
+
+        f(0, target);
+
         return ans;
     }
 };
