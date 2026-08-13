@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sengardeep/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sengardeep/leetcode-soln/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sengardeep/leetcode-soln/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sengardeep/leetcode-soln/tree/master/0307-range-sum-query-mutable) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sengardeep/leetcode-soln/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sengardeep/leetcode-soln/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sengardeep/leetcode-soln/tree/master/0371-sum-of-two-integers) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sengardeep/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sengardeep/leetcode-soln/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sengardeep/leetcode-soln/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/sengardeep/leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sengardeep/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sengardeep/leetcode-soln/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0658-find-k-closest-elements) |
@@ -1298,4 +1302,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sengardeep/leetcode-soln/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sengardeep/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
