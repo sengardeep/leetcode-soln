@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sengardeep/leetcode-soln/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/sengardeep/leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/sengardeep/leetcode-soln/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/sengardeep/leetcode-soln/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sengardeep/leetcode-soln/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/sengardeep/leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/sengardeep/leetcode-soln/tree/master/0355-design-twitter) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sengardeep/leetcode-soln/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting
