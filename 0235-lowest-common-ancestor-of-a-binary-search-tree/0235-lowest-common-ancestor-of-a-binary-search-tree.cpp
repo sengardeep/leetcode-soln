@@ -11,14 +11,12 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        while (root) {
-            if (p->val < root->val && q->val < root->val)
-                root = root->left; // Both nodes are in the left subtree
-            else if (p->val > root->val && q->val > root->val)
-                root = root->right; // Both nodes are in the right subtree
-            else
-                return root; // This is the LCA
-        }
-        return nullptr;
+        function<TreeNode*(TreeNode*)> f = [&](TreeNode* node){
+            if(node==p || node==q || !node) return node;
+            TreeNode* left=f(node->left),*right=f(node->right);
+            if(left && right) return node;
+            else return (left!=nullptr) ? left : (right!=nullptr ? right : nullptr); 
+        };
+        return f(root);
     }
 };
