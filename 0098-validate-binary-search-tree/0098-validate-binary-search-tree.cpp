@@ -12,13 +12,15 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        return check(root,LLONG_MIN,LLONG_MAX);
-    }
-private:
-    bool check(TreeNode* root,long long left,long long right)
-    {
-        if(!root) return true;
-        if(root->val <= left || root->val >= right) return false;
-        return check(root->left,left,root->val)&&check(root->right,root->val,right);
+        vector<int> inorder;
+        function<void(TreeNode*)> f = [&](TreeNode* root){
+            if(!root) return;
+            f(root->left);
+            inorder.push_back(root->val);
+            f(root->right);
+        };
+        f(root);
+        for(int i=0;i+1<inorder.size();i++) if(inorder[i+1]<=inorder[i]) return 0;
+        return 1;
     }
 };
