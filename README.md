@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sengardeep/leetcode-soln/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sengardeep/leetcode-soln/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sengardeep/leetcode-soln/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sengardeep/leetcode-soln/tree/master/0077-combinations) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sengardeep/leetcode-soln/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/sengardeep/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0220-contains-duplicate-iii) |
