@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sengardeep/leetcode-soln/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Queue
@@ -1354,4 +1357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
