@@ -1,30 +1,27 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<int> indeg(numCourses, 0);
         vector<int> adj[numCourses];
-        vector<int> inDegree(numCourses,0);
-        for(auto it : prerequisites)
-        {
-        adj[it[1]].push_back(it[0]);
-        inDegree[it[0]]++;
+        for (auto v : prerequisites) {
+            indeg[v[0]]++;
+            adj[v[1]].push_back(v[0]);
         }
-        //Kahn's Algo (As we've to check if it forms a Direct Acyclic Graph(DAG))
-        stack<int> st;
-        for(int i=0;i<numCourses;i++) if(inDegree[i]==0) st.push(i);
-        int count=0;
-        while(!st.empty())
-        {
-            int node=st.top();
-            st.pop();
-            count++;
-            for(int i=0;i<adj[node].size();i++)
-            {
-                int neighbour=adj[node][i];
-                inDegree[neighbour]--;
-                if(inDegree[neighbour] == 0) st.push(neighbour);
+        queue<int> q;
+        for (int i = 0; i < numCourses; i++) {
+            if (indeg[i] == 0) q.push(i);
+        }
+        while(!q.empty()){
+            auto node = q.front();
+            q.pop();
+            for(auto neighb : adj[node]){
+                indeg[neighb]--;
+                if(indeg[neighb]==0){
+                    q.push(neighb);
+                }
             }
         }
-
-        return (count==numCourses);
+        for(auto x : indeg) if(x) return 0;
+        return 1;
     }
 };
