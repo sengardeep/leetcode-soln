@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sengardeep/leetcode-soln/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/sengardeep/leetcode-soln/tree/master/0463-island-perimeter) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sengardeep/leetcode-soln/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sengardeep/leetcode-soln/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/sengardeep/leetcode-soln/tree/master/0463-island-perimeter) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sengardeep/leetcode-soln/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sengardeep/leetcode-soln/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
