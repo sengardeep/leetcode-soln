@@ -1,43 +1,54 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        //We'll apply BFS as we'll start from beginWord and go for every position and go for every word and check if it exists in wordList
-
-        if(find(wordList.begin(),wordList.end(),endWord)==wordList.end()) return 0;
-        int ans=1;
-        queue<string> q;
-        set<string> list;
-        //We'll use set instead of visited array or map because in set we'll see a word and delete it 
-        for(auto it : wordList) list.insert(it);
-        q.push(beginWord);
-        while(!q.empty())
-        {
-            int size=q.size();
+    int ladderLength(string beginWord, string endWord,
+                     vector<string>& wordList) {
+        if (find(begin(wordList), end(wordList), endWord) == wordList.end())
+            return 0;
+        if (find(begin(wordList), end(wordList), beginWord) == wordList.end())
+            wordList.push_back(beginWord);
+        int n = wordList.size();
+        vector<int> adj[n];
+        int src = -1, dest = -1;
+        for (int i = 0; i < n; i++) {
+            string s = wordList[i];
+            if (s == beginWord)
+                src = i;
+            if (s == endWord)
+                dest = i;
+            for (int j = 0; j != i && j < n; j++) {
+                string t = wordList[j];
+                int cnt = 0;
+                for (int k = 0; k < t.size(); k++)
+                    if (s[k] != t[k])
+                        cnt++;
+                if (cnt == 1) {
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
+            }
+        }
+        queue<int> q;
+        q.push(src);
+        vector<int> vis(n);
+        int ans = 0;
+        while (!q.empty()) {
+            int s = q.size();
             ans++;
-            while(size--)
-            {
-            string word=q.front();
-            q.pop();
-            // visited[word]=true;
-            for(int i=0;i<word.length();i++)
-            {
-                string copy=word;
-                for(int j=0;j<26;j++)
-                {
-                    copy[i]=(char)('a'+j);
-
-                    if(copy==endWord) return ans;
-                    if(list.contains(copy))
-                    {
-                        q.push(copy);
-                        list.erase(copy);
+            while (s--) {
+                int node = q.front();
+                if (node == dest)
+                    return ans;
+                q.pop();
+                if (vis[node])
+                    continue;
+                vis[node] = 1;
+                for (auto nb : adj[node]) {
+                    if (!vis[nb]) {
+                        q.push(nb);
                     }
                 }
             }
-            }
         }
-
         return 0;
-
     }
 };
