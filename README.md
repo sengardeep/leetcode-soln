@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/sengardeep/leetcode-soln/tree/master/0752-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/sengardeep/leetcode-soln/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1312,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Queue
@@ -1374,4 +1379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sengardeep/leetcode-soln/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/sengardeep/leetcode-soln/tree/master/0752-open-the-lock) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
