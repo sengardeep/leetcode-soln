@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sengardeep/leetcode-soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sengardeep/leetcode-soln/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/sengardeep/leetcode-soln/tree/master/1656-count-good-triplets) |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Queue
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -1383,4 +1386,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
