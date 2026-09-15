@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/sengardeep/leetcode-soln/tree/master/0953-verifying-an-alien-dictionary) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
+| [0978-longest-turbulent-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0978-longest-turbulent-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sengardeep/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
 | [0967-minimum-falling-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/sengardeep/leetcode-soln/tree/master/0972-knight-dialer) |
+| [0978-longest-turbulent-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0978-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sengardeep/leetcode-soln/tree/master/0940-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0978-longest-turbulent-subarray) |
 | [1813-maximum-erasure-value](https://github.com/sengardeep/leetcode-soln/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sengardeep/leetcode-soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sengardeep/leetcode-soln/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
