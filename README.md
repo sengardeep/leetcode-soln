@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sengardeep/leetcode-soln/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sengardeep/leetcode-soln/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/sengardeep/leetcode-soln/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sengardeep/leetcode-soln/tree/master/0066-plus-one) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sengardeep/leetcode-soln/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sengardeep/leetcode-soln/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0064-minimum-path-sum) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sengardeep/leetcode-soln/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0376-wiggle-subsequence) |
