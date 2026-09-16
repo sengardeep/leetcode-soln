@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sengardeep/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
+| [0649-dota2-senate](https://github.com/sengardeep/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sengardeep/leetcode-soln/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sengardeep/leetcode-soln/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sengardeep/leetcode-soln/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/sengardeep/leetcode-soln/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sengardeep/leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/sengardeep/leetcode-soln/tree/master/0767-reorganize-string) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sengardeep/leetcode-soln/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sengardeep/leetcode-soln/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sengardeep/leetcode-soln/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/sengardeep/leetcode-soln/tree/master/0649-dota2-senate) |
 ## Monotonic Queue
 |  |
 | ------- |
