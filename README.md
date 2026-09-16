@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sengardeep/leetcode-soln/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sengardeep/leetcode-soln/tree/master/0981-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sengardeep/leetcode-soln/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/sengardeep/leetcode-soln/tree/master/1094-car-pooling) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/sengardeep/leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1405-longest-happy-string](https://github.com/sengardeep/leetcode-soln/tree/master/1405-longest-happy-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
