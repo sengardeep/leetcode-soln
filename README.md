@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sengardeep/leetcode-soln/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/sengardeep/leetcode-soln/tree/master/0752-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/sengardeep/leetcode-soln/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sengardeep/leetcode-soln/tree/master/0820-find-eventual-safe-states) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sengardeep/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sengardeep/leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/sengardeep/leetcode-soln/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/sengardeep/leetcode-soln/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
@@ -1231,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sengardeep/leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sengardeep/leetcode-soln/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1345,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/sengardeep/leetcode-soln/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sengardeep/leetcode-soln/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sengardeep/leetcode-soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sengardeep/leetcode-soln/tree/master/3650-minimum-cost-path-with-edge-reversals) |
