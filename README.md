@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/sengardeep/leetcode-soln/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sengardeep/leetcode-soln/tree/master/1073-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/sengardeep/leetcode-soln/tree/master/1094-car-pooling) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-knight-dialer](https://github.com/sengardeep/leetcode-soln/tree/master/0972-knight-dialer) |
 | [0978-longest-turbulent-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0978-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/sengardeep/leetcode-soln/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/sengardeep/leetcode-soln/tree/master/1049-last-stone-weight-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1468,4 +1470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sengardeep/leetcode-soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/sengardeep/leetcode-soln/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/sengardeep/leetcode-soln/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
