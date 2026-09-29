@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sengardeep/leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sengardeep/leetcode-soln/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sengardeep/leetcode-soln/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sengardeep/leetcode-soln/tree/master/0014-longest-common-prefix) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0045-jump-game-ii) |
@@ -1162,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sengardeep/leetcode-soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sengardeep/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sengardeep/leetcode-soln/tree/master/0042-trapping-rain-water) |
@@ -1494,4 +1497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sengardeep/leetcode-soln/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
