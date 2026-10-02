@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sengardeep/leetcode-soln/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sengardeep/leetcode-soln/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sengardeep/leetcode-soln/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sengardeep/leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sengardeep/leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sengardeep/leetcode-soln/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sengardeep/leetcode-soln/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sengardeep/leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0229-majority-element-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sengardeep/leetcode-soln/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sengardeep/leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sengardeep/leetcode-soln/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sengardeep/leetcode-soln/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sengardeep/leetcode-soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sengardeep/leetcode-soln/tree/master/0198-house-robber) |
@@ -1271,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sengardeep/leetcode-soln/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting Sort
@@ -1311,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sengardeep/leetcode-soln/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sengardeep/leetcode-soln/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Probability and Statistics
@@ -1504,4 +1510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sengardeep/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sengardeep/leetcode-soln/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
