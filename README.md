@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/sengardeep/leetcode-soln/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sengardeep/leetcode-soln/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/sengardeep/leetcode-soln/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sengardeep/leetcode-soln/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/sengardeep/leetcode-soln/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sengardeep/leetcode-soln/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sengardeep/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sengardeep/leetcode-soln/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sengardeep/leetcode-soln/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/sengardeep/leetcode-soln/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sengardeep/leetcode-soln/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1415,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sengardeep/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sengardeep/leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sengardeep/leetcode-soln/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Range Minimum/Maximum Query
