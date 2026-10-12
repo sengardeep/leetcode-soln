@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sengardeep/leetcode-soln/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/sengardeep/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/sengardeep/leetcode-soln/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/sengardeep/leetcode-soln/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sengardeep/leetcode-soln/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sengardeep/leetcode-soln/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sengardeep/leetcode-soln/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sengardeep/leetcode-soln/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/sengardeep/leetcode-soln/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/sengardeep/leetcode-soln/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sengardeep/leetcode-soln/tree/master/0547-number-of-provinces) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sengardeep/leetcode-soln/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sengardeep/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/sengardeep/leetcode-soln/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/sengardeep/leetcode-soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sengardeep/leetcode-soln/tree/master/0647-palindromic-substrings) |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sengardeep/leetcode-soln/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/sengardeep/leetcode-soln/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/sengardeep/leetcode-soln/tree/master/0752-open-the-lock) |
 ## Dijkstra's Algorithm
 |  |
