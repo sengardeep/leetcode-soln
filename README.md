@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sengardeep/leetcode-soln/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/sengardeep/leetcode-soln/tree/master/1390-four-divisors) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sengardeep/leetcode-soln/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sengardeep/leetcode-soln/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sengardeep/leetcode-soln/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/sengardeep/leetcode-soln/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sengardeep/leetcode-soln/tree/master/1458-max-dot-product-of-two-subsequences) |
