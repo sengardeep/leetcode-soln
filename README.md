@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sengardeep/leetcode-soln/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sengardeep/leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sengardeep/leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/2605-count-anagrams) |
 | [2689-rearranging-fruits](https://github.com/sengardeep/leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sengardeep/leetcode-soln/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sengardeep/leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/sengardeep/leetcode-soln/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sengardeep/leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sengardeep/leetcode-soln/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sengardeep/leetcode-soln/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sengardeep/leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3133-minimum-array-end](https://github.com/sengardeep/leetcode-soln/tree/master/3133-minimum-array-end) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Matrix
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/sengardeep/leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sengardeep/leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sengardeep/leetcode-soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sengardeep/leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sengardeep/leetcode-soln/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sengardeep/leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sengardeep/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
