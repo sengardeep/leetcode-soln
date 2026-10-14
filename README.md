@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/sengardeep/leetcode-soln/tree/master/3388-right-triangles) |
 | [3462-vowels-game-in-a-string](https://github.com/sengardeep/leetcode-soln/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sengardeep/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sengardeep/leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sengardeep/leetcode-soln/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/sengardeep/leetcode-soln/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/sengardeep/leetcode-soln/tree/master/3830-find-closest-person) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sengardeep/leetcode-soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sengardeep/leetcode-soln/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sengardeep/leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sengardeep/leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sengardeep/leetcode-soln/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sengardeep/leetcode-soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
