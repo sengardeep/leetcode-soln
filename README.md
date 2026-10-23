@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/sengardeep/leetcode-soln/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sengardeep/leetcode-soln/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sengardeep/leetcode-soln/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sengardeep/leetcode-soln/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sengardeep/leetcode-soln/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sengardeep/leetcode-soln/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/sengardeep/leetcode-soln/tree/master/1049-last-stone-weight-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sengardeep/leetcode-soln/tree/master/1121-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sengardeep/leetcode-soln/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sengardeep/leetcode-soln/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sengardeep/leetcode-soln/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sengardeep/leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/sengardeep/leetcode-soln/tree/master/1094-car-pooling) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sengardeep/leetcode-soln/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sengardeep/leetcode-soln/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sengardeep/leetcode-soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sengardeep/leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sengardeep/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sengardeep/leetcode-soln/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sengardeep/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sengardeep/leetcode-soln/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sengardeep/leetcode-soln/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/sengardeep/leetcode-soln/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sengardeep/leetcode-soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
