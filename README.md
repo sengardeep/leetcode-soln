@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sengardeep/leetcode-soln/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sengardeep/leetcode-soln/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sengardeep/leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sengardeep/leetcode-soln/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sengardeep/leetcode-soln/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sengardeep/leetcode-soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sengardeep/leetcode-soln/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3133-minimum-array-end](https://github.com/sengardeep/leetcode-soln/tree/master/3133-minimum-array-end) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sengardeep/leetcode-soln/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
