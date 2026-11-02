@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sengardeep/leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sengardeep/leetcode-soln/tree/master/0417-pacific-atlantic-water-flow) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sengardeep/leetcode-soln/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/sengardeep/leetcode-soln/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sengardeep/leetcode-soln/tree/master/0498-diagonal-traverse) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/sengardeep/leetcode-soln/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/sengardeep/leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/sengardeep/leetcode-soln/tree/master/0372-super-pow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0867-new-21-game](https://github.com/sengardeep/leetcode-soln/tree/master/0867-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/sengardeep/leetcode-soln/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sengardeep/leetcode-soln/tree/master/1018-largest-perimeter-triangle) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sengardeep/leetcode-soln/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sengardeep/leetcode-soln/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sengardeep/leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/sengardeep/leetcode-soln/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sengardeep/leetcode-soln/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/sengardeep/leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
