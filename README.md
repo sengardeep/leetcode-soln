@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sengardeep/leetcode-soln/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sengardeep/leetcode-soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sengardeep/leetcode-soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3693-climbing-stairs-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sengardeep/leetcode-soln/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sengardeep/leetcode-soln/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sengardeep/leetcode-soln/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3693-climbing-stairs-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3693-climbing-stairs-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sengardeep/leetcode-soln/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
