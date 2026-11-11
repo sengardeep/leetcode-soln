@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sengardeep/leetcode-soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sengardeep/leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sengardeep/leetcode-soln/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sengardeep/leetcode-soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3817-maximum-containers-on-a-ship](https://github.com/sengardeep/leetcode-soln/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/sengardeep/leetcode-soln/tree/master/3830-find-closest-person) |
 | [3886-sum-of-sortable-integers](https://github.com/sengardeep/leetcode-soln/tree/master/3886-sum-of-sortable-integers) |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sengardeep/leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sengardeep/leetcode-soln/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sengardeep/leetcode-soln/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sengardeep/leetcode-soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sengardeep/leetcode-soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
